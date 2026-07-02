@@ -16,6 +16,14 @@
         { "packVersion": "0.13.5", "extractVersion": "0.1",
           "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@monifactory_v0.13.5_v0.1/monifactory_v0.13.5.zip" }
       ]
+    },
+    {
+      "id": "star_technology",
+      "displayName": "Star Technology",
+      "versions": [
+        { "packVersion": "theta1-hotfix3", "extractVersion": "0.1",
+          "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@star_technology_v1.20.1-theta1-hotfix3_v0.1/star_technology_v1.20.1-theta1-hotfix3.zip" }
+      ]
     }
   ]
 }
