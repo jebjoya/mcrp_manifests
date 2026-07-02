@@ -21,7 +21,7 @@
       "id": "star_technology",
       "displayName": "Star Technology",
       "versions": [
-        { "packVersion": "theta1-hotfix3", "extractVersion": "0.1",
+        { "packVersion": "1.20.1-theta1-hotfix3", "extractVersion": "0.1",
           "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@star_technology_v1.20.1-theta1-hotfix3_v0.1/star_technology_v1.20.1-theta1-hotfix3.zip" }
       ]
     }
