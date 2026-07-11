@@ -14,7 +14,9 @@
       "displayName": "Monifactory",
       "versions": [
         { "packVersion": "0.13.5", "extractVersion": "0.1",
-          "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@monifactory_v0.13.5_v0.1/monifactory_v0.13.5.zip" }
+          "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@monifactory_v0.13.6_v0.1/monifactory_v0.13.5.zip" },
+        { "packVersion": "0.13.6", "extractVersion": "0.1",
+          "zipUrl": "https://cdn.jsdelivr.net/gh/jebjoya/mcrp_manifests@monifactory_v0.13.6_v0.1/monifactory_v0.13.6.zip" }
       ]
     },
     {
